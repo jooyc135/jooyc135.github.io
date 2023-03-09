@@ -10,7 +10,7 @@
 <title>클릭</title>
 </head>
 <body>
-  <p onclik="eventonclick()">클릭</p>
+  <p onclick="eventonclick()">클릭</p>
   <p id="id_1">메시지표시</p>
 </body>
 <html>
